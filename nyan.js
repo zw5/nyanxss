@@ -24,6 +24,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 function executepayload(max,message){
+    alert(document.cookie)
     
     document.body.style.overflow='hidden';
     document.body.style.margin='0px';
